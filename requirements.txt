@@ -1,0 +1,8 @@
+pandas
+numpy
+ee
+earthengine-api
+geemap
+ipyleaflet
+eerepr
+Folium
