@@ -5,4 +5,4 @@ earthengine-api
 geemap
 ipyleaflet
 eerepr
-Folium
+folium
