@@ -7,6 +7,11 @@
 # Índice 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Técnicas e Tecnologias Utilizadas](#técnicas-e-tecnologias-utilizadas)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Autores](#autores)
+
 
 # Descrição do Projeto
 Este é um projeto de iniciativa independente com a finalidade de estudo e aplicação de técnicas de **Processamento Digital de Imagens (PDI)**, **Geoprocessamento**  e **ferramentas que compõem um SIG**.
